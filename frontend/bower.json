@@ -1,0 +1,17 @@
+{
+  "name": "rodrigocipriani",
+  "description": "Rodrigo Cipriani",
+  "main": "",
+  "license": "ISC",
+  "homepage": "https://github.com/rodrigocipriani/rodrigocipriani",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
